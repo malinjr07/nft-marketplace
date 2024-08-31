@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "next": "*"
+  },
+  "devDependencies": {
+    "typescript": "*",
+    "@types/node": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "postcss": "*",
+    "tailwindcss": "*",
+    "eslint": "*",
+    "eslint-config-next": "*"
+  }
+}
+
